@@ -1,6 +1,6 @@
 # Introduction
 
-This is a repository created by Owen
+This is a repository created by *Owen*
 
 ## Usage
 
